@@ -4,7 +4,7 @@
   "description": "Android and iOS supported pure JS slider component with multiple markers for React Native",
   "main": "MultiSlider.js",
   "scripts": {
-    "prettier": "prettier --single-quote --trailing-comma all --bracket-spacing --write \"**/*.js\"",
+    "prettier": "prettier --single-quote --trailing-comma all --bracket-spacing --write \"**/*.js\""
   },
   "repository": {
     "type": "git",
