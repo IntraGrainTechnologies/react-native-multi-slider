@@ -5,8 +5,6 @@
   "main": "MultiSlider.js",
   "scripts": {
     "prettier": "prettier --single-quote --trailing-comma all --bracket-spacing --write \"**/*.js\"",
-    "build": "tsc",
-    "prepare": "npm run build"
   },
   "repository": {
     "type": "git",
